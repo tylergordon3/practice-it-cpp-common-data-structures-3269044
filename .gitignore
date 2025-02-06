@@ -5,3 +5,6 @@ node_modules
 *.json
 *.plist
 [^\.]*
+!src
+!src/work/
+!src/work/*
